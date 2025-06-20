@@ -1,6 +1,9 @@
 ---
 title: Getting Started
 nav_order: 2
+layout: default
+parent: Helloootle
+permalink: /docs/helloootle/01-getting-started/
 ---
 
 # Hello Ootle - Getting Started
